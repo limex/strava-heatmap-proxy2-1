@@ -3,11 +3,11 @@ main = "index.js"
 # type = "webpack"
 
 # Change this to your own account ID
-account_id = "17d079c2a1e736bdfc36c112db59fde9"
+account_id = "3bf936c72fa408abbac0791bb2be921e"
 
 workers_dev = true
-route = ""
-zone_id = ""
+# route = ""
+# zone_id = ""
 
 compatibility_date = "2021-11-19"
 
