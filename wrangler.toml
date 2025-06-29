@@ -16,6 +16,6 @@ compatibility_date = "2021-11-19"
 # Use "0" to disable caching.
 vars = { TILE_CACHE_SECS = "86400" }
 
-# [secrets]
+# [secrets, added in github and in CF]
 # STRAVA_ID
 # STRAVA_COOKIES
